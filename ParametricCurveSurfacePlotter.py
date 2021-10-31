@@ -1,10 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Thu Sep  3 13:04:46 2020
-
-@author: willi
-"""
-
+# Prametric curve surface plotter
 
 import numpy as np
 import scipy as sp
