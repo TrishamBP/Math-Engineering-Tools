@@ -1,9 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Thu Nov 12 15:13:18 2020
-
-@author: wcsanguinet
-"""
+#Fourier Series Calculator
 import sympy as sym
 
 import numpy as np
@@ -96,20 +91,3 @@ ax1.set_ylabel('y')
 
 
 plt.show()
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
