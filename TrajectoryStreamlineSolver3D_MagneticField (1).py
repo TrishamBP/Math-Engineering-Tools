@@ -1,9 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sat Oct  3 17:11:53 2020
 
-@author: willi
-"""
 # Import Axes3D for 3d plotting capabilities
 from mpl_toolkits.mplot3d import axes3d
 #Import numpy for matlab-like array capabilities
